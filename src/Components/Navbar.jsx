@@ -22,3 +22,5 @@ function Navbar() {
 }
   
 export default Navbar
+
+// add navbar
